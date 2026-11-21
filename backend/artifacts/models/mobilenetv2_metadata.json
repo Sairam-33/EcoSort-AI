@@ -1,0 +1,18 @@
+{
+  "architecture": "mobilenetv2",
+  "model_file": "mobilenetv2_best.keras",
+  "class_names": [
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "preprocessing": "mobilenet_v2",
+  "metrics_file": "mobilenetv2_metrics.json"
+}

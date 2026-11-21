@@ -1,0 +1,18 @@
+{
+  "architecture": "custom_cnn",
+  "model_file": "custom_cnn_best.keras",
+  "class_names": [
+    "cardboard",
+    "glass",
+    "metal",
+    "paper",
+    "plastic",
+    "trash"
+  ],
+  "image_size": [
+    224,
+    224
+  ],
+  "preprocessing": "normalized",
+  "metrics_file": "custom_cnn_metrics.json"
+}

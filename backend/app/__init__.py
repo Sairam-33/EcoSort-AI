@@ -1,0 +1,1 @@
+"""Waste classifier FastAPI application."""

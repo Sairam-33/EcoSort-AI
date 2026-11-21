@@ -1,0 +1,38 @@
+[
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\glass\\glass115.jpg",
+    "label": "glass",
+    "sha256": "81546d1362d75fc60718e5852593c58f66f813e8c1e9d1eae6871fedb02e2868",
+    "reason": "Identical image assigned to different categories"
+  },
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\metal\\metal91.jpg",
+    "label": "metal",
+    "sha256": "81546d1362d75fc60718e5852593c58f66f813e8c1e9d1eae6871fedb02e2868",
+    "reason": "Identical image assigned to different categories"
+  },
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\glass\\glass176.jpg",
+    "label": "glass",
+    "sha256": "c41b99aec8a3257c8668a2144ebbaf8042018f0a85d88e22bf4e413b43693dd8",
+    "reason": "Identical image assigned to different categories"
+  },
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\plastic\\plastic152.jpg",
+    "label": "plastic",
+    "sha256": "c41b99aec8a3257c8668a2144ebbaf8042018f0a85d88e22bf4e413b43693dd8",
+    "reason": "Identical image assigned to different categories"
+  },
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\glass\\glass389.jpg",
+    "label": "glass",
+    "sha256": "e971f4f8f50e960e454ea724cec922fc2988bbf4027aa48b553e139bb5890968",
+    "reason": "Identical image assigned to different categories"
+  },
+  {
+    "file": "C:\\Users\\SAIRAM MALLIPUDI\\Desktop\\CSE_471_Project\\data\\raw\\trashnet\\plastic\\plastic332.jpg",
+    "label": "plastic",
+    "sha256": "e971f4f8f50e960e454ea724cec922fc2988bbf4027aa48b553e139bb5890968",
+    "reason": "Identical image assigned to different categories"
+  }
+]
